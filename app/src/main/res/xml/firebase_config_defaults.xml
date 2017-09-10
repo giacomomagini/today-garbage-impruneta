@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>garbage_schedule</key>
+        <value>
+            {"defaults":{"1":[],"2":["PLASTIC_GLASS"],"3":["ORGANIC"],"4":["PAPER"],"5":["ORGANIC"],"6":["MIXED"],"7":["ORGANIC"]},"additional":{"26-12-2017":["ORGANIC","PLASTIC_GLASS"],"26-12-2018":["ORGANIC","PLASTIC_GLASS"],"25-12-2018":[],"25-12-2017":[],"1-5-2018":[],"2-5-2018":["ORGANIC","PLASTIC_GLASS"]}}
+        </value>
+    </entry>
+
+</defaultsMap>

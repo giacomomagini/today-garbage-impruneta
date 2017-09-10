@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Che si butta stasera ad impruneta ?</string>
+
+    <string name="garbage_paper">Carta e cartone</string>
+    <string name="garbage_plastic">Plastica</string>
+    <string name="garbage_mixed">Indifferenziato</string>
+    <string name="garbage_organic">Organico</string>
+    <string name="garbage_none">Nessun ritiro oggi</string>
+
+</resources>
